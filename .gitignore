@@ -38,3 +38,4 @@
 .travis.yml
 .vscode
 data
+src/main.cpp
